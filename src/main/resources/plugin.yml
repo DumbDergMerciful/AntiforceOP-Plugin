@@ -1,0 +1,10 @@
+name: AntiforceOP
+version: '${project.version}'
+main: dev.merciful.antiforceop.AntiforceOP
+api-version: 1.18
+authors: [ Merciful ]
+description: Only allows operators listed in the config.yml
+commands:
+  opreload:
+    description: Reloads the config
+    usage: /<command>

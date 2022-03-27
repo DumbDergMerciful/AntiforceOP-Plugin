@@ -1,0 +1,9 @@
+Allowed operators:
+ - "3f251e04-d686-4360-bfbd-7627f57145f0"
+Check on join: True
+Check during command preprocess: True
+Check gamemode change event: True
+Allowed gamemode change players:
+ - "3f251e04-d686-4360-bfbd-7627f57145f0"
+# https://mcuuid.net
+# AntiforceOP made by Merciful
