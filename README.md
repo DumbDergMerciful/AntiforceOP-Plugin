@@ -1,4 +1,4 @@
-# AntiforceOP
+# AntiforceOP (Discontinued)
 This is a primitive way to stop unofficial operators.
 <br>
 Operators can be added in the config.yml
